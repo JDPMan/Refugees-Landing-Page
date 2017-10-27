@@ -9,6 +9,12 @@ nav p{
 	font-size:30px;
 	color: #FFF;
 }
+.header{
+	width:100%;
+}
+.row{
+	margin-right:0;
+}
 .content{
 	margin-top:80px;
 	text-align:center;
@@ -17,15 +23,19 @@ nav p{
 	min-height: 200px;
 	padding:0px;
 }
-.sectionTitle{
-	text-align:center;
-	background-color: #ABB1BA;
-}
 .container-fluid .descriptiveParagraph{
 	text-align: center;
 	padding: 45px 60px;
 	font-size: 20px;
 	line-height: 40px;
+}
+.container-fluid .left, .container-fluid .h3{
+	text-align:left;
+}
+.sectionTitle{
+	text-align:center !important;
+	background-color: #D8D8D8;
+	padding:15px;
 }
 .memberContainer{
 	height: 400px;
