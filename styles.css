@@ -19,7 +19,7 @@ nav p{
 }
 .sectionTitle{
 	text-align:center;
-	background-color: red;
+	background-color: #ABB1BA;
 }
 .container-fluid .descriptiveParagraph{
 	text-align: center;
@@ -44,6 +44,9 @@ nav p{
 	height: 300px;
 	display: block;
 	margin: auto;
+}
+.mockup{
+	height: 500px;
 }
 .center{
 	margin:auto;
